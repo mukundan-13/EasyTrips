@@ -28,12 +28,12 @@ function Home() {
   ];
 
   const holidayPackages = [
-    { city: "Paris", image: "src/assets/paris.jpg", price: "₹85,000", duration: "5 Days 4 Nights" },
-    { city: "Bali", image: "src/assets/img.jpg", price: "₹65,000", duration: "7 Days 6 Nights" },
-    { city: "Tokyo", image: "src/assets/tokyo.jpg", price: "₹95,000", duration: "6 Days 5 Nights" },
-    { city: "New York", image: "src/assets/img2.jpg", price: "₹1,10,000", duration: "5 Days 4 Nights" },
-    { city: "Dubai", image: "src/assets/dubai.jpg", price: "₹75,000", duration: "4 Days 3 Nights" },
-    { city: "Singapore", image: "src/assets/sinagpore.jpg", price: "₹75,000", duration: "6 Days 5 Nights" },
+    { city: "Paris", image: "assets/paris.jpg", price: "₹85,000", duration: "5 Days 4 Nights" },
+    { city: "Bali", image: "assets/img.jpg", price: "₹65,000", duration: "7 Days 6 Nights" },
+    { city: "Tokyo", image: "assets/tokyo.jpg", price: "₹95,000", duration: "6 Days 5 Nights" },
+    { city: "New York", image: "assets/img2.jpg", price: "₹1,10,000", duration: "5 Days 4 Nights" },
+    { city: "Dubai", image: "assets/dubai.jpg", price: "₹75,000", duration: "4 Days 3 Nights" },
+    { city: "Singapore", image: "assets/sinagpore.jpg", price: "₹75,000", duration: "6 Days 5 Nights" },
   ];
 
   const Ours=[

@@ -7,37 +7,37 @@ const Hotels = () => {
   const destinations = [
     {
       city: "Paris",
-      image: "src/assets/hotel3.jpg",
+      image: "assets/hotel3.jpg",
       rating: 5,
       price: "₹7,500",
     },
     {
       city: "Tokyo",
-      image: "src/assets/tokyo.jpg",
+      image: "assets/tokyo.jpg",
       rating: 4.7,
       price: "₹9,200",
     },
     {
       city: "Bali",
-      image: "src/assets/bali-hotel.jpg",
+      image: "assets/bali-hotel.jpg",
       rating: 3.3,
       price: "₹5,800",
     },
     {
       city: "Dubai",
-      image: "src/assets/dubai-hotel.jpg",
+      image: "assets/dubai-hotel.jpg",
       rating: 4.6,
       price: "₹8,400",
     },
     {
       city: "London",
-      image: "src/assets/hotel1.jpg",
+      image: "assets/hotel1.jpg",
       rating: 5,
       price: "₹10,000",
     },
     {
       city: "Singapore",
-      image: "src/assets/hotel2.jpg",
+      image: "assets/hotel2.jpg",
       rating: 3.7,
       price: "₹7,900",
     },
